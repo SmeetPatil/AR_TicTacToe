@@ -1,0 +1,15 @@
+{
+  "yellow_lower": [
+    10,
+    80,
+    80
+  ],
+  "yellow_upper": [
+    40,
+    255,
+    255
+  ],
+  "min_area": 1394,
+  "max_area": 3686,
+  "min_circularity": 0.5395029570619931
+}
