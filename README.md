@@ -56,3 +56,6 @@ An augmented reality tic-tac-toe game where you play by throwing a yellow smiley
 - **'q'**: Quit
 - **'r'**: Restart match
 - **'c'**: Calibrate ball (from main menu)
+
+## Contributors 
+-### Smeet Patil
