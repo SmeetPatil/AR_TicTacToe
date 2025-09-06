@@ -58,4 +58,4 @@ An augmented reality tic-tac-toe game where you play by throwing a yellow smiley
 - **'c'**: Calibrate ball (from main menu)
 
 ## Contributors 
--### Smeet Patil
+- ### Smeet Patil
