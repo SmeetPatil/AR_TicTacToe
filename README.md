@@ -61,3 +61,4 @@ An augmented reality tic-tac-toe game where you play by throwing a yellow smiley
 - ### Smeet Patil
 - ### Abhishekh Yadav
 - ### Rishabh Tripathi
+- ### Sumeet Prajapati 
